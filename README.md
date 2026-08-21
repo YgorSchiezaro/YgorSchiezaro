@@ -43,18 +43,15 @@ Projeto desenvolvido em Java com foco em prática de lógica, estrutura de códi
 - Git e GitHub (Curso em Vídeo)
 
 ---
+🕹️
+## Minhas Contribuições
 
-## 🕹️ Minhas Contribuições
-
-<div align="center">
-
+<!-- [pacman] -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YgorSchiezaro/YgorSchiezaro/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YgorSchiezaro/YgorSchiezaro/output/pacman-contribution-graph.svg">
-  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/YgorSchiezaro/YgorSchiezaro/output/pacman-contribution-graph.svg" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YgorSchiezaro/YgorSchiezaro/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YgorSchiezaro/YgorSchiezaro/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/YgorSchiezaro/YgorSchiezaro/output/pacman-contribution-graph.svg">
 </picture>
-
-</div>
 
 ---
 
